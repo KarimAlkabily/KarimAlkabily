@@ -42,6 +42,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python" />
 </p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
 ### 🧰 Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,notion" />
@@ -51,7 +57,8 @@
 
 ## 🚀 What I Do
 - 🔹 Build full-stack web applications
-- 🔹 Develop REST APIs using **Flask & Express Node.js**
+- 🔹 Develop REST APIs using **Flask & Express (Node.js)**
+- 🔹 Work with databases: **PostgreSQL, SQL Server & MongoDB**
 - 🔹 Frontend development with **React, Angular & Next.js**
 - 🔹 Competitive programming & contests
 
@@ -69,4 +76,4 @@
 ---
 
 ### ✨ Fun Fact
-> *Trust the process and keep grinding 🚀*
+> *Stay humble 🚀*
