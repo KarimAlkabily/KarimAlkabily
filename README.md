@@ -64,16 +64,5 @@
 
 ---
 
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimAlkabily&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimAlkabily&theme=tokyonight" />
-</p>
-
----
-
 ### ✨ Fun Fact
 > *Stay humble 🚀*
